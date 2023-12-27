@@ -32,7 +32,7 @@ ADRecon simplifie la collecte d'informations dans les environnements Active Dire
 
 - Obtenez l'autorisation, respectez la confidentialité et assurez-vous de toujours utiliser la dernière version d'ADRecon pour tirer le meilleur parti de ses fonctionnalités.
 
-**Ressource supplémentaire (bonne lecture ;) ):**
+**Ressource supplémentaire (bonne lecture 😉 ):**
 
 N'oubliez pas de consulter l'article détaillé de @IT-CONNECT sur l'utilisation d'ADRecon : [Découverte et reconnaissance Active Directory avec ADRecon](https://www.it-connect.fr/decouverte-reconnaissance-active-directory-adrecon/)
 
